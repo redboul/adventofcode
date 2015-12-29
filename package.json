@@ -9,6 +9,7 @@
   "author": "Julien Reboul <julien.reboul@bonitasoft.com>",
   "license": "MIT",
   "devDependencies": {
-    "lodash": "^3.10.1"
+    "lodash": "^3.10.1",
+    "md5": "2.0.0"
   }
 }
